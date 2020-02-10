@@ -7,6 +7,13 @@
 - I learned the basic logic of computer science.
 3. what questions do I have? 
 - I'm still unsure that how each programing language relates to the basic logic.
+ 2/10
+1. what did you do? 
+- I did programing of mouseClicked dice.
+2. what did you learn? 
+- I learned how to set mouseClicked and change the coler of the circle.
+3. what questions do I have? 
+- I'm still unsure the difference bitween ellipce and circle.
 
 # Solution to the homework
 I made my initial only using triangles
@@ -27,21 +34,8 @@ triangle(68, 75, 68, 20, 68, 20);
 
 # Solution to the homework
 I made 1 side dice.
-```.py
-def setup():
-    size(600, 600)
-    background(255)
-    square(40, 40, 400)
     
-    ellipse(120, 120, 80, 80)
-    ellipse(120, 240, 80, 80)
-    ellipse(120, 360, 80, 80)
-    ellipse(360, 120, 80, 80)
-    ellipse(360, 240, 80, 80)
-    ellipse(360, 360, 80, 80)
-    ellipse(240, 240, 80, 80)
-    ```    
- 2/10
+2/10
 1. what did you do? 
 - I did programing of mouseClicked dice.
 2. what did you learn? 
