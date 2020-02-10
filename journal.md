@@ -40,8 +40,7 @@ def setup():
     ellipse(360, 240, 80, 80)
     ellipse(360, 360, 80, 80)
     ellipse(240, 240, 80, 80)
-    ```
-    
+    ```    
  2/10
 1. what did you do? 
 - I did programing of mouseClicked dice.
