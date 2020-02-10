@@ -42,7 +42,7 @@ def setup():
     ellipse(240, 240, 80, 80)
     ```
     
-2/10
+ 2/10
 1. what did you do? 
 - I did programing of mouseClicked dice.
 2. what did you learn? 
