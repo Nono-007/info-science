@@ -24,3 +24,28 @@ triangle(68, 75, 68, 20, 68, 20);
  - I learned how to define the size of the square, its location, X and Y coordinates and its color.
  3. what questions do I have? 
  - I'm still having troube with defining X and Y coordinates when creating one side of dice.
+
+# Solution to the homework
+I made 1 side dice.
+```.py
+def setup():
+    size(600, 600)
+    background(255)
+    square(40, 40, 400)
+    
+    ellipse(120, 120, 80, 80)
+    ellipse(120, 240, 80, 80)
+    ellipse(120, 360, 80, 80)
+    ellipse(360, 120, 80, 80)
+    ellipse(360, 240, 80, 80)
+    ellipse(360, 360, 80, 80)
+    ellipse(240, 240, 80, 80)
+    ```
+    
+2/10
+1. what did you do? 
+- I did programing of mouseClicked dice.
+2. what did you learn? 
+- I learned how to set mouseClicked and change the coler of the circle.
+3. what questions do I have? 
+- I'm still unsure the difference bitween ellipce and circle.
