@@ -90,3 +90,8 @@ def draw():
 - I learned to set global and offset.
 3. what questions do I have
 - I'm still unsure the meaning of global.
+
+
+
+
+
