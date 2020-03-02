@@ -88,10 +88,15 @@ def draw():
 
 2. what did you learn
 - I learned to set global and offset.
-3. what questions do I have
+3. what questions do you have
 - I'm still unsure the meaning of global.
 
-
-
+3/2
+1. what did you do
+I tried to create Traffic Light on Tinkercad
+2. what did you learn
+I learned how to connect LED lights.
+3. what questions do you have
+I literally don't know the rule of technology because I have never learnt such a thing before.
 
 
